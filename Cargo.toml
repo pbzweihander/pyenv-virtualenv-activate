@@ -1,0 +1,10 @@
+[package]
+name = "pyenv-virtualenv-activate"
+version = "0.1.0"
+authors = ["Kangwook Lee <pbzweihander@gmail.com>"]
+edition = "2018"
+default-run = "pyenv-virtualenv-activate"
+
+[dependencies]
+anyhow = "1.0.41"
+structopt = "0.3.21"
